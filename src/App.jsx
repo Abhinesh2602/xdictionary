@@ -41,7 +41,7 @@ function App() {
         />
         <button type="submit">Search</button>
       </form>
-      <h3>Defintion:</h3>
+      <h3>Definition:</h3>
       <h4>{meaning != "" && meaning}</h4>
     </div>
   );
